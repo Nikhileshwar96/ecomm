@@ -1,0 +1,31 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "Ecommerce API project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhileshwar96/EcommerceAPI.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "nodejs",
+    "mongodb",
+    "skeleton"
+  ],
+  "author": "nikhileshwar96@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhileshwar96/EcommerceAPI/issues"
+  },
+  "homepage": "https://github.com/Nikhileshwar96/EcommerceAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
